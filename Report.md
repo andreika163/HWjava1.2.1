@@ -8,6 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 https://github.com/andreika163/HWjava1.2.1/issues/1#issue-890447342
+https://github.com/andreika163/HWjava1.2.1/issues/2#issue-890459464
 
 ## Описание процесса тестирования
 
